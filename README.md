@@ -28,6 +28,9 @@ http://localhost:8080/api/v1/beers/
 Para este programa foi utilizado:
 
 Java 16
+
 Maven 3.8.1
+
 Intellj IDEA Community Edition
+
 Git e GitHub
